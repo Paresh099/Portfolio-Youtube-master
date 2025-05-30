@@ -5,10 +5,10 @@ export const Bio = {
     "Android Developer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I’m a passionate mobile app developer with 6 months of experience in Android and Flutter. I enjoy building clean, user-friendly apps and have worked with Firebase, secure login systems, and responsive UI design. I’m always eager to learn new technologies and improve my skills to create better digital experiences.",
   github: "https://github.com/rishavchanda",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1RWXvPQSt9CHya4ymFwL6cn1ncFQuwS4g/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/rishav_chanda/",
