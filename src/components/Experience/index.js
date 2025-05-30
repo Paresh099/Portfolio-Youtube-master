@@ -80,7 +80,7 @@ const index = () => {
             <Wrapper>
                 <Title>Experience</Title>
                 <Desc>
-                    My work experience as a software engineer and working on different companies and projects.
+                    I have experience working as a Software Engineer on diverse projects, developing mobile applications using Android and Flutter, with a focus on clean UI, Firebase integration, and performance optimization.
                 </Desc>
                 <TimelineSection>
                     <Timeline>
