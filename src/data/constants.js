@@ -160,7 +160,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://yt3.googleusercontent.com/7TBNHftCQb3bpwFXiRZ0D-lqnyecfY0wF6KpKccc1f-5WahYdh0FN0FZBXgC3rSylW4sHa8vdEs=s900-c-k-c0x00ffffff-no-rj",
     role: "Application Developer",
     company: "Selkey Cyber Security pvt.ltd",
     date: "Des 2024 - Jun 2025",
