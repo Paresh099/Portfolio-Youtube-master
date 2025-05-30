@@ -6,13 +6,13 @@ export const Bio = {
   ],
   description:
     "I’m a passionate mobile app developer with 6 months of experience in Android and Flutter. I enjoy building clean, user-friendly apps and have worked with Firebase, secure login systems, and responsive UI design. I’m always eager to learn new technologies and improve my skills to create better digital experiences.",
-  github: "https://github.com/rishavchanda",
+  github: "https://github.com/Paresh099",
   resume:
     "https://drive.google.com/file/d/1RWXvPQSt9CHya4ymFwL6cn1ncFQuwS4g/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  linkedin: "https://www.linkedin.com/in/paresh-solanki-675858272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  twitter: " https://x.com/PareshSolanki09?t=iKcrr6XOD3k6iBvUKtl-0A&s=08",
+  insta: "https://www.instagram.com/paresh_099?igsh=NHprc3Q4djI1aW4z",
+  facebook: "https://www.facebook.com/share/16VFuN4DQP/",
 };
 
 export const skills = [
